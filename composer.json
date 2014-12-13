@@ -1,6 +1,7 @@
 {
     "name": "jvalentini/composer-exec",
     "type": "composer-plugin",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "jvalentini\\Composer\\Exec": "src/"
