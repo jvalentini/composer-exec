@@ -11,6 +11,7 @@
     },
     "description": "Execute composer package binaries from anywhere in your project.",
     "require": {
+        "php": ">=5.3.0",
         "composer-plugin-api": "~1.0"
     },
     "require-dev" : {
