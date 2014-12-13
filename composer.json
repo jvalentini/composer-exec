@@ -1,0 +1,14 @@
+{
+    "name": "jvalentini/composer-exec",
+    "description": "Execute composer package binaries from anywhere in your project.",
+    "require": {
+        "composer-plugin-api": "~1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Valentini",
+            "email": "justin.valentini@gmail.com"
+        }
+    ]
+}
